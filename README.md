@@ -1,2 +1,2 @@
 # soduku-solver
-A c++ program that can solve Sudoku puzzles.
+Two console c++ programs that can solve Sudoku puzzles.
